@@ -32,6 +32,7 @@
 @include("frontend.includes.header")
 
 <main id="main">
+    this is test
     <div class="rev_slider_wrapper">
         <!-- the ID here will be used in the inline JavaScript below to initialize the slider -->
         <div id="rev_slider_1" class="rev_slider" data-version="5.4.5" style="display:none">
