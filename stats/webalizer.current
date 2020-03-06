@@ -1,0 +1,497 @@
+# Webalizer V2.23-08 Incremental Data - 03/03/2020 16:19:16
+2020 3 3 16 19 16
+695 533 33 107 16 5 28328280 155 38 0
+8 5 223 1 3
+201 141 7218732 15 52 16
+455 362 18805430 14 71 14
+39 30 2304118 8 32 8
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 4 273785 2
+0 0 0 0
+3 2 44529 3
+2 2 154788 2
+139 137 6272612 6
+144 101 8377194 94
+1 1 32250 1
+1 1 77737 1
+1 0 1552 1
+0 0 0 0
+154 106 4903116 13
+0 0 0 0
+2 2 77761 1
+224 161 7127198 15
+1 0 1552 0
+4 3 123880 4
+10 9 544437 10
+2 2 159647 0
+1 1 77345 1
+1 1 77345 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 1552 0
+0
+0
+0
+533
+0
+0
+0
+0
+0
+0
+0
+0
+9
+0
+0
+0
+0
+0
+0
+0
+0
+143
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/frontend/revolution/js/extensions/revolution.extension.slideanims.min.js
+0 6 0 176406 0 0
+/frontend/js/map-script.js
+0 3 0 12087 0 0
+/frontend/image/svg1/placeholder.svg
+0 2 0 2240 0 0
+/career
+0 9 0 225885 1 2
+/frontend/homepage1/img/welcome-bg.jpg
+1 5 0 55480 0 0
+/frontend/homepage1/css/styles.css
+0 6 0 348252 0 0
+/frontend/js/validator.min.js
+0 3 0 18165 0 0
+/frontend/fonts/Flaticon.woff
+0 4 0 56384 0 0
+/frontend/homepage1/img/c-test0.jpg
+1 5 0 125680 0 0
+/frontend/homepage1/css/navbar.css
+0 6 0 335670 0 0
+/frontend/css/navbar.css
+0 3 0 167238 0 0
+/frontend/homepage1/img/c-logo-4.png
+1 5 0 98480 0 0
+/frontend/image/service/5.png
+1 2 0 87760 0 0
+/faqs
+0 6 0 124536 0 1
+/frontend/revolution/assets/loader.gif
+1 5 0 12725 0 0
+/frontend/revolution/css/layers.css
+0 6 0 879720 0 0
+/frontend/image/company-overview/bread-arrow.png
+1 2 0 408 0 0
+/frontend/js/bootstrap.js
+0 3 0 209121 0 0
+/frontend/homepage1/img/c-logo-3.png
+1 5 0 105000 0 0
+/frontend/fonts/Poppins-Medium.ttf
+0 4 0 574064 0 0
+/frontend/homepage1/img/client-bg.jpg
+1 5 0 165100 0 0
+/frontend/revolution/js/extensions/revolution.extension.layeranimation.min.js
+0 6 0 336000 0 0
+/frontend/homepage1/img/counter-bg.jpg
+1 5 0 83305 0 0
+/frontend/image/pre-loader.gif
+1 4 0 26236 0 0
+/frontend/image/main-slider/home-1/banner-2.jpg
+1 6 0 279090 0 0
+/frontend/image/svg1/phone-call.svg
+0 2 0 5858 0 0
+/frontend/homepage1/img/s-5.jpg
+1 5 0 110180 0 0
+/frontend/fonts/Poppins-SemiBold.ttf
+0 4 0 568592 0 0
+/frontend/fonts/Rubik-Light.ttf
+0 5 0 684080 0 0
+/frontend/js/preload.js
+0 7 0 5747 0 0
+/frontend/image/service/3.png
+1 2 0 85396 0 0
+/services
+0 6 0 133110 1 0
+/frontend/homepage1/img/product-section-2.jpg
+1 5 0 99665 0 0
+/frontend/homepage1/img/c-logo-2.png
+1 5 0 105175 0 0
+/frontend/homepage1/img/product-section-3.jpg
+1 5 0 83365 0 0
+/frontend/homepage1/img/c-logo-1.png
+1 5 0 99805 0 0
+/frontend/image/service/4.png
+1 2 0 73150 0 0
+/frontend/css/bootstrap.css
+0 7 0 1069376 0 0
+/frontend/homepage1/js/jquery.js
+0 6 0 1758444 0 0
+/favicon.ico
+0 1 0 0 0 0
+/frontend/revolution/js/jquery.themepunch.tools.min.js
+0 6 0 663378 0 0
+/frontend/image/company-overview/banner.jpg
+1 2 0 109178 0 0
+/frontend/revolution/css/settings.css
+0 6 0 180732 0 0
+/frontend/revolution/js/extensions/revolution.extension.kenburn.min.js
+0 6 0 22524 0 0
+/frontend/homepage1/img/s-6.jpg
+1 5 0 92600 0 0
+/frontend/homepage1/img/s-3.jpg
+1 5 0 99750 0 0
+/frontend/revolution/css/navigation.css
+0 6 0 370176 0 0
+/frontend/homepage1/owl/assets/owl.theme.default.min.css
+0 6 0 6648 0 0
+/frontend/css/flaticon.css
+0 7 0 37079 0 0
+/frontend/homepage1/img/request.jpg
+1 5 0 80900 0 0
+/frontend/js/gmaps.js
+0 4 0 122188 0 0
+/events
+0 6 0 105702 1 1
+/frontend/homepage1/img/s-2.jpg
+1 5 0 75860 0 0
+/frontend/image/main-slider/home-1/banner-1.jpg
+1 6 0 899550 0 0
+/frontend/homepage1/img/c-logo-6.png
+1 5 0 96910 0 0
+/frontend/image/GSIT-FullLogo.jpg
+1 2 0 31020 0 0
+/frontend/image/GSIT-FullLogo-1.jpg
+1 2 0 35622 0 0
+/frontend/fonts/Poppins-Bold.ttf
+0 2 0 282520 0 0
+/frontend/js/nav-scripts.min.js
+0 5 0 25455 0 0
+/frontend/js/html5lightbox.js.download
+0 4 0 329236 0 0
+/contact
+0 7 0 170810 0 0
+/frontend/image/service/1.png
+1 2 0 52566 0 0
+/frontend/homepage1/img/GSIT-FullLogo-1.jpg
+1 5 0 89055 0 0
+/frontend/homepage1/img/bg-1.jpg
+1 5 0 114795 0 0
+/frontend/homepage1/img/cursor.png
+1 5 0 1495 0 0
+/frontend/image/foter-la.png
+1 2 0 154434 0 0
+/frontend/homepage1/owl/owl.carousel.js
+0 6 0 560946 0 0
+/frontend/image/service/6.png
+1 2 0 81800 0 0
+/frontend/revolution/js/extensions/revolution.extension.actions.min.js
+0 6 0 49722 0 0
+/frontend/homepage1/img/s-1.jpg
+1 5 0 68155 0 0
+/frontend/image/svg1/GSIT-FullLogo.jpg
+1 2 0 31020 0 0
+/frontend/revolution/js/jquery.themepunch.revolution.min.js
+0 6 0 389166 0 0
+/frontend/homepage1/img/product-section-1.jpg
+1 5 0 68880 0 0
+/frontend/css/responsive.css
+0 3 0 4695 0 0
+/frontend/homepage1/img/s-4.jpg
+1 5 0 79590 0 0
+/frontend/revolution/js/extensions/revolution.extension.parallax.min.js
+0 6 0 65586 0 0
+/
+0 55 0 3056454 32 3
+/overview
+0 4 0 129660 1 0
+/frontend/revolution/js/extensions/revolution.extension.navigation.min.js
+0 6 0 156606 0 0
+/frontend/js/jquery-2.2.4.min.js
+0 5 0 480000 0 0
+/frontend/revolution/js/extensions/revolution.extension.migration.min.js
+0 6 0 156606 0 0
+/frontend/css/bootstrap.min.css
+0 3 0 363534 0 0
+/frontend/image/main-slider/home-1/banner-3.jpg
+1 6 0 678792 0 0
+/frontend/fonts/fontawesome-webfont.woff2
+0 4 0 227120 0 0
+/frontend/js/html5lightbox.js
+0 3 0 246930 0 0
+/frontend/js/bootstrap.min.js
+0 5 0 185225 0 0
+/frontend/css/inner-page-style.css
+0 5 0 1025835 0 0
+/frontend/owl/assets/owl.carousel.js
+0 3 0 280626 0 0
+/frontend/homepage1/img/c-test.jpg
+1 5 0 112515 0 0
+/frontend/revolution/js/extensions/revolution.extension.carousel.min.js
+0 6 0 45642 0 0
+/events/read
+0 8 0 165188 0 0
+/frontend/fonts/Rubik-Medium.ttf
+0 2 0 287392 0 0
+/frontend/homepage1/img/c-logo-5.png
+1 5 0 101745 0 0
+/frontend/image/icons/map-marker.png
+1 2 0 38888 0 0
+/robots.txt
+0 2 0 48 0 0
+/frontend/homepage1/img/foter-la.png
+1 5 0 386085 0 0
+/mission
+0 3 0 53760 0 0
+/frontend/homepage1/js/other.js
+0 6 0 32406 0 0
+/frontend/fonts/Rubik-Regular.ttf
+0 4 0 562928 0 0
+/frontend/revolution/js/extensions/revolution.extension.video.min.js
+0 6 0 145962 0 0
+/frontend/image/service/2.png
+1 2 0 79862 0 0
+/frontend/js/main.js
+0 3 0 53274 0 0
+/frontend/image/service/request.jpg
+1 2 0 32360 0 0
+/frontend/image/favicon.png
+1 1 0 3288 0 0
+/frontend/homepage1/img/GSIT-FullLogo.jpg
+1 5 0 77550 0 0
+/frontend/css/font-awesome.css
+0 5 0 152880 0 0
+/frontend/homepage1/owl/assets/owl.carousel.min.css
+0 6 0 20142 0 0
+# End Of Table - urls
+# -sites- (monthly)
+52.41.211.72
+0 2 2 0 2 1583167610
+/
+107.173.19.195
+0 1 1 77345 1 1583069308
+/
+34.212.30.79
+0 1 1 77345 1 1583167605
+/
+34.209.47.244
+0 1 1 77443 1 1583208179
+/
+18.237.30.131
+0 1 1 77345 1 1583080752
+/
+35.231.137.68
+0 67 66 3011472 1 1583123892
+/
+103.111.55.62
+0 1 0 1552 0 0
+-
+52.36.112.74
+0 1 1 77345 1 1583023066
+/
+54.244.212.216
+0 1 1 77345 1 1583127033
+/
+76.176.154.64
+0 379 268 12153876 3 1583157130
+/
+104.227.178.234
+0 1 1 77835 1 1583251883
+/
+207.46.13.181
+0 4 3 120829 2 1583116867
+/
+184.154.76.23
+0 30 21 1683374 1 1583214516
+/
+106.15.198.21
+0 1 0 1552 0 0
+-
+184.154.139.25
+0 85 60 5045983 1 1583128744
+/
+40.77.167.111
+0 1 1 22081 1 1583029920
+/services
+40.77.167.141
+0 4 2 104396 3 1583092294
+/
+185.131.53.94
+0 1 1 77345 1 1583122650
+/
+35.165.169.25
+0 1 1 77345 1 1583208232
+/
+35.237.236.141
+0 2 2 154690 1 1583252356
+/
+191.96.242.253
+0 1 1 77835 1 1583251550
+/
+52.34.24.33
+0 1 1 0 1 1583023071
+/
+157.55.39.6
+0 1 1 24 0 0
+-
+199.244.88.131
+0 2 2 154690 2 1583154727
+/
+35.243.217.51
+0 67 66 3011472 1 1583123886
+/
+184.154.139.48
+0 28 19 1570492 1 1583042224
+/
+54.159.77.182
+0 1 1 77835 1 1583143949
+/
+207.46.13.118
+0 2 2 49761 2 1583043523
+/overview
+175.42.43.96
+0 1 1 77737 1 1583048533
+/
+75.149.221.170
+0 2 2 154788 1 1583121012
+/
+181.215.217.181
+0 1 1 77835 1 1583251362
+/
+216.145.11.94
+0 2 2 77761 1 1583236892
+/
+40.77.167.83
+0 1 0 1552 1 1583136201
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+34.209.47.244
+0 1 1 77443 1 1583208179
+/
+104.227.178.234
+0 1 1 77835 1 1583251883
+/
+184.154.76.23
+0 30 21 1683374 1 1583214516
+/
+35.165.169.25
+0 1 1 77345 1 1583208232
+/
+35.237.236.141
+0 2 2 154690 1 1583252356
+/
+191.96.242.253
+0 1 1 77835 1 1583251550
+/
+181.215.217.181
+0 1 1 77835 1 1583251362
+/
+216.145.11.94
+0 2 2 77761 1 1583236892
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://globalstateitsolutions.com/frontend/css/inner-page-style.css
+1 8
+http://globalstateitsolutions.com/
+1 255
+http://globalstateitsolutions.com/events
+1 32
+http://www.google.com/url
+1 41
+http://globalstateitsolutions.com/frontend/homepage1/css/styles.css
+1 58
+http://globalstateitsolutions.com/frontend/css/font-awesome.css
+1 4
+- (Direct Request)
+0 145
+http://globalstateitsolutions.com/url('/')
+1 1
+http://globalstateitsolutions.com/services
+1 20
+http://globalstateitsolutions.com/frontend/revolution/css/settings.css
+1 5
+http://globalstateitsolutions.com/faqs
+1 7
+Google
+2 41
+http://globalstateitsolutions.com/frontend/css/navbar.css
+1 58
+http://globalstateitsolutions.com/career
+1 28
+http://globalstateitsolutions.com/frontend/css/flaticon.css
+1 4
+http://globalstateitsolutions.com/events/read
+1 6
+http://globalstateitsolutions.com/contact
+1 23
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0
+0 534
+Netscape 6 compatible
+2 534
+SiteLockSpider [en] (WinNT; I ;Nav)
+0 102
+Go-http-client/1.1
+0 5
+MSIE 9.0
+0 41
+bingbot/2.0
+0 13
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
